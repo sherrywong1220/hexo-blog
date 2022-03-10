@@ -1,0 +1,3 @@
+[submodule "themes/linear"]
+	path = themes/linear
+	url = git@github.com:sherrywong1220/hexo-theme-linear.git
