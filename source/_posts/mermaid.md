@@ -23,11 +23,11 @@ tags:
 
 
 
-工作之外， 当我使用 Markdown 进行写作时，我依然希望追求一种行云流水的写作感觉，文章里的文本和图片最好一体化，方便日后再次编辑。后来惊喜地发现了 Mermaid，我日常使用的 [Typora](https://typora.io/) 编辑器，就对 Mermaid 支持得很好。
+工作之外， 当我使用 Markdown 进行写作时，我依然希望追求一种行云流水的写作感觉，文章里的文本和流程图最好一体化，方便日后再次编辑。后来惊喜地发现了 Mermaid，我日常使用的 [Typora](https://typora.io/) 编辑器，就对 Mermaid 支持得很好。
 
 
 
-而 Hexo 博客框架也是支持渲染 Mermaid 流程图的，安装方式可见 [ hexo-filter-mermaid-diagrams](https://github.com/webappdevelp/hexo-filter-mermaid-diagrams) 。
+Hexo 博客框架也是支持渲染 Mermaid 流程图的，安装方式可见 [ hexo-filter-mermaid-diagrams](https://github.com/webappdevelp/hexo-filter-mermaid-diagrams) 。
 
 
 
@@ -63,4 +63,4 @@ sequenceDiagram
 ```
 
 
-目前如果我使用的文档系统支持 draw.io 我会优先使用 draw.io 绘图，当使用 Markdown 时我会使用 Mermaid 进行绘图。当碰到要绘制错综复杂的流程图时，使用 Mermaid 也是一种不错的选择，毕竟大家都不愿意把大部分时间花在调整图中的各种组件的尺寸、对齐等问题上。
+目前如果我使用的文档系统支持 draw.io， 我依然会优先使用 draw.io 绘图。 编写 Markdown 时我会使用 Mermaid 进行绘图。当要绘制复杂的流程图时，使用 Mermaid 是一种不错的选择，毕竟大家都不愿意把大部分时间花在调整流程图中各种元素的尺寸、对齐等问题上。
